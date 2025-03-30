@@ -8,6 +8,7 @@ Vandaar dat er ook een easter egg is aan verbonden, mensen zullen zich afvragen 
 iets doen.
 
 Figma: https://www.figma.com/design/BRuxRUDaJdZqseZXrzj1zj/dvg1-h_layla-matten_eindwerk?node-id=0-1&t=Xdgo1NX17ePDCuEq-1
+
 svg icon used for socials: 
 https://icons8.com/icons/set/social-media--style-ios-filled
 https://icons8.com/icons/set/sketchfab--style-ios-filled
